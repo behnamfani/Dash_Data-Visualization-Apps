@@ -14,11 +14,11 @@ For this project, the dataset I am going to use is Data_Cortex_Nuclear.xls with 
 You can also choose 2 features from the main dataset and only have a scatter plot for these two features as axes. Then, you can add(delete) a scatter plot with the same features you chose under the mentioned plot.
 
 
-![](Scatter 1.png)
+![](Scatter_1.png)
 
-![](Scatter 2.png)
+![](Scatter_2.png)
 
-![](Scatter plots.png)
+![](Scatter_plots.png)
 
 
 
